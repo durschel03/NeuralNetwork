@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677990190 source:c:\users\ursch\documents\jobprojects\neuralnet\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
